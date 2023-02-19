@@ -1,4 +1,3 @@
-![logo](https://github.com/Kavitabhoite/Kavitabhoite/blob/main/wallpaperflare.com_wallpaper.jpg)
 # 💫 About Me: 
 🔭 I'm currently working on Web Development Frameworks.<br>👭 I'm looking to collaborate on Software Development as well as Web Development.<br> 🤝I'm looking for help in developing a Sorting Algorithm Visualizer for all types of sorts.<br>🌱 I'm currently learning different frameworks on web and software development.<br>💬 Ask me about Python and Java.<br>😁 Fun fact -  I'm lazy but ACTIVE 😉.<br> 📫 Reach me - kavita.bhoite11@gmail.com
 
