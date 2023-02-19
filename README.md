@@ -2,10 +2,6 @@
 🔭 I'm currently working on Web Development Frameworks.<br>👭 I'm looking to collaborate on Software Development as well as Web Development.<br> 🤝I'm looking for help in developing a Sorting Algorithm Visualizer for all types of sorts.<br>🌱 I'm currently learning different frameworks on web and software development.<br>💬 Ask me about Python and Java.<br>😁 Fun fact -  I'm lazy but ACTIVE 😉.<br> 📫 Reach me - kavita.bhoite11@gmail.com
 
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/124710050/219941807-a0c99902-1fb6-4c96-9dda-7579fc4f0251.png)
-">
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kavita-bhoite-809576240)
 
